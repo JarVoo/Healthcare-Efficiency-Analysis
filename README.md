@@ -3,9 +3,9 @@
 ### Dashboard Link : https://app.powerbi.com/groups/me/reports/384e33e8-b9b8-4ed7-99be-dae870f0f268/0367c202c2f375fe20a5?experience=power-bi
 
 
+![home page](https://github.com/user-attachments/assets/8174f4a3-9c05-48da-a1da-282976f1a6bb)
 
  
-![home page](https://github.com/user-attachments/assets/8174f4a3-9c05-48da-a1da-282976f1a6bb)
 
 
 ## Introduction
